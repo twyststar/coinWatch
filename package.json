@@ -1,0 +1,11 @@
+{
+  "name": "coinwatch",
+  "version": "1.0.0",
+  "description": "A way to watch my investments",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
