@@ -27,7 +27,8 @@
  /**
   * Session Configuration
   */
- 
+ // trust first proxy
+  app.set('trust proxy', 1) 
  const session = {
    secret: process.env.SESSION_SECRET,
    cookie: {},
